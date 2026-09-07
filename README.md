@@ -1,0 +1,2 @@
+# Better-Video-Controls
+Control videos on YouTube, Instagram, TikTok, and more. Scroll horizontally to seek instantly, even while another window is active
